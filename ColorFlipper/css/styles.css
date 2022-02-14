@@ -21,9 +21,9 @@
 
 body {
     font-family: var(--ff-primary);
+    color: var(--clr-dark);
     background: var(--clr-neutral);
     letter-spacing: 2px;
-    color: var(--clr-dark);
 }
 
 ul {
