@@ -102,3 +102,7 @@ nav {
     color: var(--clr-light);
     background: var(--clr-dark);
 }
+
+.color {
+    color: var(--clr-secondary);
+}
